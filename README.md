@@ -1,2 +1,2 @@
-# The-Trip
+# The-Trip.github.io
 Trip package booking website
